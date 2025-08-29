@@ -1,7 +1,7 @@
 # 🖥️ System Upgrade: RAM + SSD + HDD + Windows 10 (64-bit)
 
 ## 📌 Project Overview
-I upgraded my PC for better performance by:
+I upgraded the slow PC for better performance by:
 - ✅ Adding more **RAM** for multitasking
 - ✅ Installing a new **SSD (NVMe M.2)** as the primary drive
 - ✅ Keeping the old **HDD** as secondary storage

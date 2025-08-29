@@ -52,3 +52,45 @@ This repository documents the upgrade process with real photos.
 ---
 
 ## 📂 Folder Structure
+system-upgrade-ram-ssd-hdd/
+│-- README.md
+│-- images/
+│ │-- ASUS Motherboard.jpeg
+│ │-- NVME SSD M2.jpeg
+│ │-- Using Screw Driver to tight the screw on ssd.jpeg
+│ │-- RAM DDR 3.jpeg
+│ │-- RAM & SSD Image with tools.jpeg
+│ │-- System Boot Windows Logo.jpeg
+
+---
+
+## 🚀 Results & Benefits
+- ⚡ Boot time reduced from ~2 minutes ➝ ~15 seconds  
+- 🎮 Apps & games load much faster  
+- 📂 More storage flexibility (SSD + HDD combo)  
+- 🖥️ Smooth multitasking with upgraded RAM  
+
+---
+
+## 🛠️ Tools & Parts Used
+- DDR3 RAM module  
+- EVM NVMe PCIe M.2 SSD (256 GB)  
+- Old HDD (secondary storage)  
+- Screwdrivers & pliers  
+- Windows 10 (64-bit) bootable USB  
+
+---
+
+## 📸 Before & After Performance
+| Component   | Before Upgrade | After Upgrade |
+|-------------|----------------|---------------|
+| Boot Time   | ~1–2 mins      | ~15 secs      |
+| App Launch  | Slow           | Instant       |
+| Storage     | HDD only       | SSD + HDD     |
+| RAM Usage   | Limited        | Smooth multitasking |
+
+---
+
+## 🙌 Conclusion
+This upgrade gave a **massive performance boost** to the PC.  
+Now it boots in seconds, runs smoother, and has more storage flexibility.  
